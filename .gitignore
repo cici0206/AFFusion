@@ -1,0 +1,12 @@
+# PyCharm 配置
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
